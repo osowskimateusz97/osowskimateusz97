@@ -1,8 +1,8 @@
 # Hi, I'm Mateusz 👋
 
-## I am a 3rd year student of computer science at the University of IT and Management.
+## I am a Web Developer
 
-### For the last two years I have been passionate about programming, now I'm focusing on improving my skills in Front-End technologies.🌱
+### For the last two years I have been passionate about programming, now I'm focusing on improving my skills in React technologies.🌱
 
 #### My goal is to use the obtained knowledge for real projects.
 
